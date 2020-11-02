@@ -1,5 +1,5 @@
 ## Getting and Cleaning Data Project
-
+#
 Author: Michael Galarnyk
 
 ### Description
